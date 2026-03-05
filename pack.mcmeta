@@ -2,6 +2,6 @@
   "pack": {
     "pack_format": 75,
     "supported_formats": [75, 81],
-    "description": "All ores 100x rarer"
+    "description": "Ores 20x rarer, 3000x3000 world border, empty chests"
   }
 }
