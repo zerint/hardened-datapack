@@ -17,7 +17,6 @@ Vein sizes and height distributions remain vanilla, but spawn frequency is reduc
 
 ### Mob Loot Nerfs
 
-- **Drowned**: Copper ingots removed entirely from loot table (only drops rotten flesh with 2.5% base chance + looting)
 - **Iron Golems**: Iron ingots removed (only drops 0-2 poppies)
 - **Piglins & Zombified Piglins**: Gold ingots/nuggets removed from drops
 
